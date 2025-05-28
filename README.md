@@ -23,7 +23,7 @@ O jogo é jogado em turnos por dois jogadores. Cada jogador escolhe uma posiçã
 gcc jogodavelha.c -o jogodavelha
 ./jogodavelha
 
-Windows (com MinGW)
+# Windows (com MinGW)
 
 gcc jogodavelha.c -o jogodavelha.exe
 jogodavelha.exe
