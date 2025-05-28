@@ -1,6 +1,3 @@
-# C
-Projetos em C/C++
-
 #include <stdio.h>
 #include <stdlib.h>
 

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1748403966 source:c:\users\taylo\music\c\jogodavelha\main.c
+	<stdio.h>
+	<stdlib.h>
+
