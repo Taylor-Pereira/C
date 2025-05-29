@@ -49,6 +49,6 @@ jogodavelha.exe
 3. Após cada jogada, verifica vitória ou empate.
 4. Encerra o jogo se houver um vencedor ou empate.
 
-📜 Licença
+## 📜 Licença
 Este projeto está licenciado sob a licença MIT.
 Sinta-se livre para utilizar, estudar e modificar os arquivos para fins educacionais e profissionais.
