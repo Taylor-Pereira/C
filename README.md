@@ -48,3 +48,7 @@ jogodavelha.exe
 2. Executa turnos alternados entre os jogadores.
 3. Após cada jogada, verifica vitória ou empate.
 4. Encerra o jogo se houver um vencedor ou empate.
+
+📜 Licença
+Este projeto está licenciado sob a licença MIT.
+Sinta-se livre para utilizar, estudar e modificar os arquivos para fins educacionais e profissionais.
