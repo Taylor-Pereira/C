@@ -1,5 +1,3 @@
-# C
-
 ## 📘 Projetos em C / C++
 
 Bem-vindo ao meu repositório de projetos desenvolvidos em C e C++. Aqui você encontrará aplicações simples e avançadas com foco em aprendizado, prática de lógica e estruturação de código.
