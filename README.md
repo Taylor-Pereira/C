@@ -4,16 +4,16 @@
 
 Bem-vindo ao meu repositório de projetos desenvolvidos em C e C++. Aqui você encontrará aplicações simples com foco em aprendizado, prática de lógica e estruturação de código.
 
+## 🎯 Objetivo
+
+Este repositório tem como objetivo reunir meus estudos e projetos desenvolvidos durante o aprendizado da linguagem C e C++, servindo como portfólio e ponto de referência pessoal.
+
 ## 🗂 Lista de Projetos
 
 - 🎮 [Jogo da Velha](./jogodavelha)  
   Um simples jogo da velha (tic-tac-toe) jogado via terminal por dois jogadores.
 
-(Adicione mais projetos conforme for desenvolvendo)
-
-## 🎯 Objetivo
-
-Este repositório tem como objetivo reunir meus estudos e projetos desenvolvidos durante o aprendizado da linguagem C e C++, servindo como portfólio e ponto de referência pessoal.
+  (Adicione mais projetos conforme for desenvolvendo)
 
 ## 🚀 Como Usar
 
