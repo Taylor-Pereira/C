@@ -2,6 +2,10 @@
 
 Este é um simples jogo da velha (tic-tac-toe) feito em linguagem C, jogado no terminal por dois jogadores.
 
+## Fluxograma
+
+![Fluxograma do Jogo da Velha](./fluxograma.png)
+
 ## 🎮 Como jogar
 
 O jogo é jogado em turnos por dois jogadores. Cada jogador escolhe uma posição de 1 a 9 no tabuleiro para marcar X ou O. O primeiro a alinhar três símbolos vence.
