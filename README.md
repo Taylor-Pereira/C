@@ -20,3 +20,6 @@ Este repositório tem como objetivo reunir meus estudos e projetos desenvolvidos
    ```bash
    gcc main.c -o programa
    ./programa
+
+## 📜 Licença
+https://github.com/Taylor-Pereira/C?tab=MIT-1-ov-file
