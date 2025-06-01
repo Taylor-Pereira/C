@@ -1,6 +1,3 @@
-# C
-Projetos em C/C++
-
 # Jogo da Velha em C
 
 Este é um simples jogo da velha (tic-tac-toe) feito em linguagem C, jogado no terminal por dois jogadores.
